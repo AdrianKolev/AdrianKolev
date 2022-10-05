@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋,
+### are you looking to partner with someone on a project?
+![I'm  web developer](https://media-exp1.licdn.com/dms/image/C4D16AQHOknN1UvPxYw/profile-displaybackgroundimage-shrink_350_1400/0/1608214466138?e=1670457600&v=beta&t=jOYYRlJax_wwwIjXQL33s1VjiCHLAvdOh5feCUXPrRY)
 
-<!--
-**AdrianKolev/AdrianKolev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a confident, ambitious and creative person. I possess an in-depth understanding and strength in the latest web technologies and software tools. I am always passionate to improve my skills. As well as I'm ready to cooperate to exchange my creative ideas and views in any time.
 
-Here are some ideas to get you started:
+Skills: PHP / REACT / JS / HTML / CSS / MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on different small React, Wordpress and Laravel projects. 
+- 🌱 I’m currently learning Docker 
+- 👯 I’m looking to collaborate on different web projects 
+- 📫 How to reach me: adrkolev@gmail.com 
+
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height='40'>](https://github.com/https://github.com/AdrianKolev)  [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adrkolev//)  
