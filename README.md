@@ -4,7 +4,7 @@
 
 I am a confident, ambitious and creative person. I possess an in-depth understanding and strength in the latest web technologies and software tools. I am always passionate to improve my skills. As well as I'm ready to cooperate to exchange my creative ideas and views in any time.
 
-Skills: WordPress / PHP / React / JS / HTML / CSS / MySQL etc.
+Technologies working with currently: PHP: Wordpress / Laravel / Symfony | JS: React | Web / HTML / CSS / | Databases related MySQL, GraphQL, Redis | Cloud: AWS.
 
 - 🔭 I’m currently working on different React, Wordpress, Zend, Symfony, Laravel projects. 
 - 🌱 I’m currently learning Docker 
