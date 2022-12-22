@@ -6,7 +6,7 @@ I am a confident, ambitious and creative person. I possess an in-depth understan
 
 Skills: WordPress / PHP / React / JS / HTML / CSS / MySQL etc.
 
-- 🔭 I’m currently working on different small React, Wordpress and Laravel projects. 
+- 🔭 I’m currently working on different React, Wordpress, Zend, Symfony, Laravel projects. 
 - 🌱 I’m currently learning Docker 
 - 👯 I’m looking to collaborate on different web projects 
 - 📫 How to reach me: adrkolev@gmail.com 
